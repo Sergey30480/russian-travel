@@ -15,4 +15,4 @@
 Публикация проекта на github.
 
 ## Ссылка
-http://127.0.0.1:5500/index.html
+ https://sergey30480.github.io/russian-travel/
