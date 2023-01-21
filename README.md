@@ -15,4 +15,8 @@
 Публикация проекта на github.
 
 ## Ссылка на проект
+<<<<<<< HEAD
  https://sergey30480.github.io/russian-travel/
+=======
+https://sergey30480.github.io/russian-travel/
+>>>>>>> b5aad5a96b2c66d94b5958bf7489a2fa4fcec271
