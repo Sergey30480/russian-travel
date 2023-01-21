@@ -14,5 +14,5 @@
 Работа с макетом в Figma.
 Публикация проекта на github.
 
-## Ссылка
-http://127.0.0.1:5500/index.html
+## Ссылка на проект
+ https://sergey30480.github.io/russian-travel/
